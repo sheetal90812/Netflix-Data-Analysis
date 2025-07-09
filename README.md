@@ -39,4 +39,4 @@ Graphs include:
 
 ---
 
-👩‍💻 Project by Sheetal Nishad | [LinkedIn](https://www.linkedin.com/in/sheetal-nishad-7378b52b8) | [GitHub](https://github.com/your-username)
+👩‍💻 Project by Sheetal Nishad | [LinkedIn](https://www.linkedin.com/in/sheetal-nishad-7378b52b8) | [GitHub](https://github.com/settings/profile)
